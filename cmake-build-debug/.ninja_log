@@ -1,0 +1,19 @@
+# ninja log v5
+4	213	1675101295522161850	CMakeFiles/Algorithms.dir/BinarySearch.cpp.o	da4650e375ea0060
+232	267	1675101900030845720	Algorithms	daaee800de2db4fe
+3	25	1675101886021362325	CMakeFiles/Algorithms.dir/binary.cpp.o	c63c68448878431a
+3	232	1675101899993897770	CMakeFiles/Algorithms.dir/main.cpp.o	17f1a0bb8d63bfdc
+0	44	1675102445400956685	build.ninja	6e03768f1808a2a0
+3	459	1675102541535340290	CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o	9e332dd0ed0e9a34
+3	249	1675102566213080395	CMakeFiles/Algorithms.dir/main.cpp.o	17f1a0bb8d63bfdc
+249	283	1675102566248140166	Algorithms	bd722f73b5295285
+4	225	1675102607878088846	CMakeFiles/Algorithms.dir/main.cpp.o	17f1a0bb8d63bfdc
+4	227	1675102683235978927	CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o	9e332dd0ed0e9a34
+4	239	1675102683248278647	CMakeFiles/Algorithms.dir/main.cpp.o	17f1a0bb8d63bfdc
+239	271	1675102683281097762	Algorithms	bd722f73b5295285
+3	229	1675102774163163103	CMakeFiles/Algorithms.dir/main.cpp.o	17f1a0bb8d63bfdc
+3	236	1675102774170632488	CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o	9e332dd0ed0e9a34
+236	269	1675102774204286552	Algorithms	bd722f73b5295285
+3	235	1675102818265351149	CMakeFiles/Algorithms.dir/main.cpp.o	17f1a0bb8d63bfdc
+4	245	1675102818275520664	CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o	9e332dd0ed0e9a34
+245	278	1675102818309285305	Algorithms	bd722f73b5295285
