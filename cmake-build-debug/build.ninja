@@ -58,6 +58,12 @@ build CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o: CXX_COM
   OBJECT_DIR = CMakeFiles/Algorithms.dir
   OBJECT_FILE_DIR = CMakeFiles/Algorithms.dir/searching
 
+build CMakeFiles/Algorithms.dir/searching/sequential_search_algorithm.cpp.o: CXX_COMPILER__Algorithms_Debug /Users/prateekthakur/CLionProjects/Algorithms/searching/sequential_search_algorithm.cpp || cmake_object_order_depends_target_Algorithms
+  DEP_FILE = CMakeFiles/Algorithms.dir/searching/sequential_search_algorithm.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Algorithms.dir
+  OBJECT_FILE_DIR = CMakeFiles/Algorithms.dir/searching
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algorithms
@@ -66,7 +72,7 @@ build CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o: CXX_COM
 #############################################
 # Link the executable Algorithms
 
-build Algorithms: CXX_EXECUTABLE_LINKER__Algorithms_Debug CMakeFiles/Algorithms.dir/main.cpp.o CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o
+build Algorithms: CXX_EXECUTABLE_LINKER__Algorithms_Debug CMakeFiles/Algorithms.dir/main.cpp.o CMakeFiles/Algorithms.dir/searching/binary_search_algorithm.cpp.o CMakeFiles/Algorithms.dir/searching/sequential_search_algorithm.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/Algorithms.dir
   POST_BUILD = :
